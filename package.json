@@ -11,9 +11,9 @@
   "bin": {
     "nalt": "./dist/index.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": ["better_alternative" , "npm_alternative" , "alternative" , "suggestion" ],
+  "author": "daksh_29",
+  "license": "MIT",
   "dependencies": {
     "@types/node": "^22.14.0",
     "axios": "^1.8.4",

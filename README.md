@@ -17,8 +17,9 @@
 
 ```bash
 npx nalt <package-name> [options]
+```
 
-Options
+# Options
 -j, --json : Output raw JSON data
 
 
@@ -26,9 +27,8 @@ Options
 
 ```bash
 npx nalt moment
+```
 
-![nalt_example](https://github.com/user-attachments/assets/e1b2f0a1-0ed8-416d-a49e-f907b9f65c71)
-
-
+![nalt_example](https://github.com/user-attachments/assets/c7e3825f-a21c-4f3f-a007-7c3af9ece1eb)
 
 

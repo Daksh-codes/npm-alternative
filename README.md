@@ -27,7 +27,8 @@ Options
 ```bash
 npx nalt moment
 
+![nalt_example](https://github.com/user-attachments/assets/e1b2f0a1-0ed8-416d-a49e-f907b9f65c71)
 
-![image](https://github.com/user-attachments/assets/fde7dc5d-730c-4755-941b-5089caae589d)
+
 
 

@@ -18,7 +18,7 @@
 ```bash
 npx nalt <package-name> [options]
 ```
-Options
+## Options
 -j, --json : Output raw JSON data
 
 
